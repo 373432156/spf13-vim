@@ -6,7 +6,7 @@
         \__ \ |_) |  _| |___) |_____|\ V / | | | | | | |
         |___/ .__/|_| |_|____/        \_/  |_|_| |_| |_|
             |_|
-
+** vim 终极配置 **
 spf13-vim is a distribution of vim plugins and resources for Vim, Gvim and [MacVim].
 
 It is a good starting point for anyone intending to use VIM for development running equally well on Windows, Linux, \*nix and Mac.
